@@ -4,3 +4,4 @@
 
 ## Progress
 - Day 17: NumPy arrays, indexing, special arrays, arithmetic
+- Day 18: NumPy slicing, reshaping, joining, searching, sorting, filtering
