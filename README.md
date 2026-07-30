@@ -9,3 +9,4 @@
 - Day 20 - Accessing data , .iloc , .loc , filtering rows , .loc with conditions
 - Day 21 - Handling Missing values and cleaning data
 - Day 22 — GroupBy, aggregation, and sorting
+- Day 23 — Merging, joining, concat, and renaming
