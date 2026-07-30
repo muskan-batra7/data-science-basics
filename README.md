@@ -8,3 +8,4 @@
 - Day 19 — Pandas basics: creating DataFrames, reading/writing CSVs, inspecting Titanic data
 - Day 20 - Accessing data , .iloc , .loc , filtering rows , .loc with conditions
 - Day 21 - Handling Missing values and cleaning data
+- Day 22 — GroupBy, aggregation, and sorting
