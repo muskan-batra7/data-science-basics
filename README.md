@@ -10,3 +10,4 @@
 - Day 21 - Handling Missing values and cleaning data
 - Day 22 — GroupBy, aggregation, and sorting
 - Day 23 — Merging, joining, concat, and renaming
+- Day 25 — DateTime operations and string methods
